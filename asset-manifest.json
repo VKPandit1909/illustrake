@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/illustrake/static/css/main.7a86a280.chunk.css",
+    "main.js": "/illustrake/static/js/main.574423bd.chunk.js",
+    "main.js.map": "/illustrake/static/js/main.574423bd.chunk.js.map",
+    "runtime-main.js": "/illustrake/static/js/runtime-main.b7e13374.js",
+    "runtime-main.js.map": "/illustrake/static/js/runtime-main.b7e13374.js.map",
+    "static/css/2.b00201c5.chunk.css": "/illustrake/static/css/2.b00201c5.chunk.css",
+    "static/js/2.beee9ceb.chunk.js": "/illustrake/static/js/2.beee9ceb.chunk.js",
+    "static/js/2.beee9ceb.chunk.js.map": "/illustrake/static/js/2.beee9ceb.chunk.js.map",
+    "static/js/3.eec515e4.chunk.js": "/illustrake/static/js/3.eec515e4.chunk.js",
+    "static/js/3.eec515e4.chunk.js.map": "/illustrake/static/js/3.eec515e4.chunk.js.map",
+    "index.html": "/illustrake/index.html",
+    "static/css/2.b00201c5.chunk.css.map": "/illustrake/static/css/2.b00201c5.chunk.css.map",
+    "static/css/main.7a86a280.chunk.css.map": "/illustrake/static/css/main.7a86a280.chunk.css.map",
+    "static/js/2.beee9ceb.chunk.js.LICENSE.txt": "/illustrake/static/js/2.beee9ceb.chunk.js.LICENSE.txt",
+    "static/media/ForgotPassword1.89fc03c0.svg": "/illustrake/static/media/ForgotPassword1.89fc03c0.svg",
+    "static/media/ForgotPasswordDark1.34498639.svg": "/illustrake/static/media/ForgotPasswordDark1.34498639.svg",
+    "static/media/Login1.af4d83e5.svg": "/illustrake/static/media/Login1.af4d83e5.svg",
+    "static/media/LoginDark1.63375e85.svg": "/illustrake/static/media/LoginDark1.63375e85.svg",
+    "static/media/login.css": "/illustrake/static/media/Maskimg.edcac048.svg",
+    "static/media/ResetPassword1.9d815c91.svg": "/illustrake/static/media/ResetPassword1.9d815c91.svg",
+    "static/media/ResetPasswordDark1.0ed1cc0b.svg": "/illustrake/static/media/ResetPasswordDark1.0ed1cc0b.svg",
+    "static/media/SignUp1.94aa0c76.svg": "/illustrake/static/media/SignUp1.94aa0c76.svg",
+    "static/media/SignUpDark1.b2a9bd5f.svg": "/illustrake/static/media/SignUpDark1.b2a9bd5f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7e13374.js",
+    "static/css/2.b00201c5.chunk.css",
+    "static/js/2.beee9ceb.chunk.js",
+    "static/css/main.7a86a280.chunk.css",
+    "static/js/main.574423bd.chunk.js"
+  ]
+}
